@@ -1,0 +1,2 @@
+# php-rest-doc
+A simple and light weight API &amp; Developer document generator for PHP applications. Now generate the API Usage Documentation along with developer documentation. This supports custom themes, manual text interventions, editing and cool graphical presentations. Targeted at real world API documentation needs and not limited to developer documentation like the most of the other applications.
